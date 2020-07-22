@@ -1,0 +1,1 @@
+Client.openAndRead("http://api.openweathermap.org/data/2.5/weather?q=" + "Krakow" + "&APPID=" + this.apiKey);
